@@ -1,3 +1,4 @@
+![Madhuri Koduru GitHub Banner](github-banner.png)
 # Madhuri Koduru
 
 ### Aspiring Data Analyst | Computer Science Engineering Student | Technology Enthusiast
